@@ -1,0 +1,5 @@
+Veselovych N.V.;2000;Zolochiv;Facture of radial bone;easy
+Nagornii A.A.;1998;Vinnytsya;Stretching of long muscle;medium
+Zhilenko T.V.;2000;Lutsk;Facture of temporal bone;hard
+Shovkovych Y.O.;2000;Berestechko;Finger pain;medium
+Pastushuna O.A.;2001;Sosnivka;Shizophrenia;easy

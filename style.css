@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+}
+
+/*Titles/Subtitles*/
+
+.document_name{
+    color: red;
+    text-transform: uppercase;
+}
+
+.doctor_name{
+    color: green;
+    text-transform: uppercase;
+}
+
+.doctor_specialization{
+    color: blue;
+    text-transform: capitalize;
+}
+
+table{
+    border: 2px solid black;
+
+    margin: 20px auto;
+}
+
+td,th{
+    border: 1px solid black;
+
+    padding: 5px 8px;
+    text-align: center;
+}
+
+th{
+    background-color: grey;
+}
